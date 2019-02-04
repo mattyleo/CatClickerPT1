@@ -7,10 +7,14 @@ h1 {
   text-align: center;
 }
 
-.hero-image {
-  text-align: center;
+.cat-img {
+  margin-left: 25%;
+  width: 50vw;;
+  height: 70vh;
 }
 
 .counter {
+  margin-top: 3vh;
+  color: blue;
   text-align: center;
 }
